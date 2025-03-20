@@ -19,8 +19,8 @@ Anne'so Naturelle est un site e-commerce dédié à la vente de bijoux en pierre
 - **Outils** : Stripe
 
 ## 📸 Aperçu du site
-![Page d'accueil](./images/homepage.png)
-![Page produit](./images/product-page.png)
+![Page d'accueil](homepage.png)
+![Page produit](product-page.png)
 
 ## 🚀 Objectifs du projet
 - Créer une plateforme esthétique et intuitive pour présenter les produits.
